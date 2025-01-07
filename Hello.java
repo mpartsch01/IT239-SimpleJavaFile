@@ -4,6 +4,5 @@ public class Hello
     {
         System.out.println("Hello, world! From: Java :]");
         System.out.println("Goodbye, world! From: Java :[");
-        System.out.println("This is invalid Java.)
     }
 }
